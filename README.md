@@ -1,3 +1,3 @@
 # demo2
 
-hellow janta
+hi how are you
