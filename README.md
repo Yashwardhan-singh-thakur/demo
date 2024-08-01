@@ -1,4 +1,3 @@
 # demo2
 
-hellow every one this is brnach main
-
+hi github this side updating name yashwardhan singh thakur
